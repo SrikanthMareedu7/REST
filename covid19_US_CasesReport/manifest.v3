@@ -11,9 +11,9 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="name">covid19_US_CasesReport</value>
-  <value name="build">10.3.33</value>
-  <null name="description"/>
-  <value name="time">2020-07-21 20:31:56 IST</value>
+  <value name="build">10.3.1</value>
+  <value name="description"></value>
+  <value name="time">2020-07-29 19:50:09 IST</value>
   <value name="jvm_version">1.8.0_181</value>
   <value name="publisher">KELLHYDLPTP055</value>
   <value name="patch_nums"></value>
